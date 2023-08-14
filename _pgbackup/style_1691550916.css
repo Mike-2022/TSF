@@ -1,0 +1,36 @@
+@media (min-width:768px) {
+    p {
+        font-size: 1.6em;
+    }
+}
+
+@media (max-width:767px) {
+    p {
+        font-size: 1.3em;
+    }
+}
+
+@media (max-width:767px) {
+    h5 {
+        font-size: 1.3em;
+    }
+}
+
+@media (min-width:768px) {
+    h5 {
+        font-size: 1.6em;
+    }
+}
+
+@media (max-width:767px) {
+    span {
+        font-size: 1.3em;
+    }
+}
+
+@media (min-width:768px) {
+    span {
+        font-size: 1.6em;
+    }
+}
+

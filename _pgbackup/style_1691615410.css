@@ -1,0 +1,55 @@
+@media (min-width:768px) {
+    p {
+        font-size: 1.6em;
+    }
+}
+
+@media (max-width:767px) {
+    p {
+        font-size: 1.3em;
+    }
+}
+
+@media (min-width:768px) {
+    h5 {
+        font-size: 1.6em;
+    }
+}
+
+@media (max-width:767px) {
+    h5 {
+        font-size: 1.3em;
+    }
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.negritaAzul {
+    color: #0029fc;
+    font-weight: bold;
+}
+
+.negritaRoja {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.negritaVerde {
+    color: #10cd07;
+    font-weight: bold;
+}
+
+.negritaMorado {
+    color: #b635f9;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
